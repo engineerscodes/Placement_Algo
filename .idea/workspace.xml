@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList_Algo/LinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList_Algo/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList_Algo/Reverse_in_group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList_Algo/move_last_first.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting_algo/Bubble_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting_algo/Bubble_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +43,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.move_last_first">
-    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algo.Bubble_Sort" />
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="LinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList_Algo.LinkedListNode" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algo.*" />
+          <option name="PATTERN" value="LinkedList_Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList_Algo.LinkedListNode" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting_algo.MergeSort" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList_Algo.*" />
+          <option name="PATTERN" value="Sorting_algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.move_last_first" />
         <item itemvalue="Application.Reverse_in_group" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.LinkedListNode" />
-        <item itemvalue="Application.Bubble_Sort" />
       </list>
     </recent_temporary>
   </component>
