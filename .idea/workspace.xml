@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Move_All_Neg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP_Algo/Logest_Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/instance_of.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random_Try/merge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/Quick_Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +50,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="LinkedListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList_Algo.LinkedListNode" />
+  <component name="RunManager" selected="Application.Move_All_Neg">
+    <configuration name="Logest_Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP_Algo.Logest_Palindrom" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList_Algo.*" />
+          <option name="PATTERN" value="DP_Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algo.MergeSort" />
+    <configuration name="Move_All_Neg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Move_All_Neg" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algo.*" />
+          <option name="PATTERN" value="Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_in_group" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList_Algo.Reverse_in_group" />
+    <configuration name="instance_of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.instance_of" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList_Algo.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algo.SelectionSort" />
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.reverse" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algo.*" />
+          <option name="PATTERN" value="Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="move_last_first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList_Algo.move_last_first" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.test" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList_Algo.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.move_last_first" />
-        <item itemvalue="Application.Reverse_in_group" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.LinkedListNode" />
+        <item itemvalue="Application.Move_All_Neg" />
+        <item itemvalue="Application.reverse" />
+        <item itemvalue="Application.Logest_Palindrom" />
+        <item itemvalue="Application.instance_of" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
