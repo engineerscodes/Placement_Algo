@@ -13,6 +13,7 @@ public class Super {
   {return "HELLO";}
   public static  void main(String ...strings){
     Super s=new B1();
+   // B1 b1=(B1)new Super("SUB");
     System.out.println(s.greet()); //ans HELLO BECAUSE OF  STATIC //https://www.geeksforgeeks.org/can-we-overload-or-override-static-methods-in-java/
   }
 }

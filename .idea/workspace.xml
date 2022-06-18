@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Move_All_Neg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP_Algo/Logest_Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/instance_of.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random_Try/merge_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/Quick_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/SUPER_B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/try_catchs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random_Try/BTS_/Node_Bst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random_Try/GateWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random_Try/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_Algo/bts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Problems/Move_All_Neg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Problems/Move_All_Neg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Problems/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Problems/reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting_algo/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting_algo/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +52,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Move_All_Neg">
-    <configuration name="Logest_Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP_Algo.Logest_Palindrom" />
+  <component name="RunManager" selected="Application.Node_Bst">
+    <configuration name="GateWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random_Try.GateWay" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP_Algo.*" />
+          <option name="PATTERN" value="Random_Try.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Move_All_Neg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.Move_All_Neg" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting_algo.MergeSort" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Problems.*" />
+          <option name="PATTERN" value="Sorting_algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="instance_of" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.instance_of" />
+    <configuration name="Node_Bst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random_Try.BTS_.Node_Bst" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Random_Try.BTS_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.reverse" />
+    <configuration name="Pay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random_Try.Pay" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Problems.*" />
+          <option name="PATTERN" value="Random_Try.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.test" />
+    <configuration name="try_catchs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.try_catchs" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Move_All_Neg" />
-        <item itemvalue="Application.reverse" />
-        <item itemvalue="Application.Logest_Palindrom" />
-        <item itemvalue="Application.instance_of" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Node_Bst" />
+        <item itemvalue="Application.Pay" />
+        <item itemvalue="Application.GateWay" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.try_catchs" />
       </list>
     </recent_temporary>
   </component>
@@ -149,11 +151,11 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="prev.next" />
-      </configuration>
-    </watches-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Random_Try.BTS_.Node_Bst$Bst_Node" memberName="left" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Placement$LinkedListNode.ic" NAME="LinkedListNode Coverage Results" MODIFIED="1654401191592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

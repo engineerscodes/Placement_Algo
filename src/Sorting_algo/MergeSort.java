@@ -10,10 +10,10 @@ public class MergeSort {
 
   public static void main(String  ...string){
 
-    int arr[]={45,-5,1,8,99,5,99999,20,6,91,56,3,8,1000};
-    System.out.println("BEFORE ARRAY MERGE SORT : "+ Arrays.toString(arr));
+    int arr[]={12,32,45,11,89,56,43};
+    System.out.println("Array in random order: "+ Arrays.toString(arr));
     Merge_Sort(arr,0,arr.length-1);
-    System.out.println("AFTER ARRAY MERGE SORT : "+ Arrays.toString(arr));
+    System.out.println("Array in sorted order "+ Arrays.toString(arr));
 
   }
 
@@ -53,7 +53,7 @@ public class MergeSort {
      while (j< rigth.length){
        array[z++]= rigth[j++];
      }
-     //System.out.println(array.length);
+    
      for(int c=0;c< array.length;c++){
        arr[l+c]=array[c];
      }
