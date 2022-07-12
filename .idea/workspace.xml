@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CP/NonRep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/moveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random_Try/_de.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Minimize_cost_to_split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB2/Reverse_Half.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB2/left_rotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB4/High_Lowest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB4/sum_duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random_Try/Eng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/XY_YX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Random_Try/BTS_/Node_Bst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random_Try/BTS_/Node_Bst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trees_Algo/bts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees_Algo/bts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +50,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._de">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.Main" />
+  <component name="RunManager" selected="Application.Minimize_cost_to_split">
+    <configuration name="High_Lowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB4.High_Lowest" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="CP.LAB4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Node_Bst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Random_Try.BTS_.Node_Bst" />
+    <configuration name="Minimize_cost_to_split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Minimize_cost_to_split" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Random_Try.BTS_.*" />
+          <option name="PATTERN" value="Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonRep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.NonRep" />
+    <configuration name="Reverse_Half" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB2.Reverse_Half" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.*" />
+          <option name="PATTERN" value="CP.LAB2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_de" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Random_Try._de" />
+    <configuration name="XY_YX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting_algo.XY_YX" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Random_Try.*" />
+          <option name="PATTERN" value="Sorting_algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="moveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.moveZero" />
+    <configuration name="sum_duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB4.sum_duplicates" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.*" />
+          <option name="PATTERN" value="CP.LAB4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._de" />
-        <item itemvalue="Application.moveZero" />
-        <item itemvalue="Application.NonRep" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Node_Bst" />
+        <item itemvalue="Application.Minimize_cost_to_split" />
+        <item itemvalue="Application.High_Lowest" />
+        <item itemvalue="Application.sum_duplicates" />
+        <item itemvalue="Application.XY_YX" />
+        <item itemvalue="Application.Reverse_Half" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +158,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Placement$LinkedListNode.ic" NAME="LinkedListNode Coverage Results" MODIFIED="1654401191592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LinkedList_Algo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Reverse_in_group_java$XY_YX.ic" NAME="XY_YX Coverage Results" MODIFIED="1657091003772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Sorting_algo.*</FILTER>
     </SUITE>
   </component>
 </project>
