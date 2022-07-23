@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Minimize_cost_to_split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB2/Reverse_Half.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB2/left_rotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB4/High_Lowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB4/sum_duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random_Try/Eng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/XY_YX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB5/Circular_String_Rotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB5/Vowels_on_Strike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB5/lexicographically_of_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB6/String_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB6/Word_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB7/Linked_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB7/Rabbit_Hole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Random_Try/Record_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Algo/ALL_SUBSET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Algo/Subquence_of_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_Algo/BTS/All_Possible_BST_1_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_Algo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knapsack_Algo/Knapsack_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trees_Algo/bts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees_Algo/bts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Random_Try/Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random_Try/Zero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +56,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Minimize_cost_to_split">
-    <configuration name="High_Lowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB4.High_Lowest" />
+  <component name="RunManager" selected="Application.All_Possible_BST_1_N">
+    <configuration name="ALL_SUBSET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Algo.ALL_SUBSET" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB4.*" />
+          <option name="PATTERN" value="String_Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimize_cost_to_split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.Minimize_cost_to_split" />
+    <configuration name="All_Possible_BST_1_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees_Algo.BTS.All_Possible_BST_1_N" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Problems.*" />
+          <option name="PATTERN" value="Trees_Algo.BTS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Half" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB2.Reverse_Half" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees_Algo.BTS.Main" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB2.*" />
+          <option name="PATTERN" value="Trees_Algo.BTS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XY_YX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting_algo.XY_YX" />
+    <configuration name="Subquence_of_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Algo.Subquence_of_string" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting_algo.*" />
+          <option name="PATTERN" value="String_Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum_duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB4.sum_duplicates" />
+    <configuration name="Trees_Algo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees_Algo.Main" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB4.*" />
+          <option name="PATTERN" value="Trees_Algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Minimize_cost_to_split" />
-        <item itemvalue="Application.High_Lowest" />
-        <item itemvalue="Application.sum_duplicates" />
-        <item itemvalue="Application.XY_YX" />
-        <item itemvalue="Application.Reverse_Half" />
+        <item itemvalue="Application.All_Possible_BST_1_N" />
+        <item itemvalue="Application.Trees_Algo.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ALL_SUBSET" />
+        <item itemvalue="Application.Subquence_of_string" />
       </list>
     </recent_temporary>
   </component>
@@ -149,13 +155,214 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>11</line>
+          <properties class="Trees_Algo.Main" method="constructTrees">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Trees_Algo/Main.java</url>
+          <line>61</line>
+          <properties class="Trees_Algo.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="Random_Try.BTS_.Node_Bst$Bst_Node" memberName="left" />
+        <PinnedItemInfo parentTag="Trees_Algo.BTS.BST" memberName="data" />
       </pinned-members>
     </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Reverse_in_group_java$Vowels_on_Strike.ic" NAME="Vowels_on_Strike Coverage Results" MODIFIED="1657773682691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CP.LAB5.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Placement$LinkedListNode.ic" NAME="LinkedListNode Coverage Results" MODIFIED="1654401191592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LinkedList_Algo.*</FILTER>
     </SUITE>

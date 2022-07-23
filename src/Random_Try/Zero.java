@@ -10,6 +10,8 @@ public class Zero {
 		Arrays.sort(arr);
 		System.out.println(Arrays.toString(arr));
 
+
+
 	}
 
 }
