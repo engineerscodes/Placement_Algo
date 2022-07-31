@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB5/Circular_String_Rotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB5/Vowels_on_Strike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB5/lexicographically_of_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB6/String_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB6/Word_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB7/Linked_Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB7/Rabbit_Hole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Random_Try/Record_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Algo/ALL_SUBSET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Algo/Subquence_of_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees_Algo/BTS/All_Possible_BST_1_N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees_Algo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/knapsack_Algo/Knapsack_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Next_Great.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/Max_Sub_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/first_neg_in_all_w.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Grid_Traveler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/fib_n.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Random_Try/Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random_Try/Zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CP/LAB8/Min_No_Grounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CP/LAB8/Min_No_Grounds.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +48,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.All_Possible_BST_1_N">
-    <configuration name="ALL_SUBSET" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Algo.ALL_SUBSET" />
+  <component name="RunManager" selected="Application.Grid_Traveler">
+    <configuration name="Grid_Traveler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Grid_Traveler" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_Algo.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All_Possible_BST_1_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees_Algo.BTS.All_Possible_BST_1_N" />
+    <configuration name="Max_Sub_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.SW.Max_Sub_array" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trees_Algo.BTS.*" />
+          <option name="PATTERN" value="Array_Problems.SW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees_Algo.BTS.Main" />
+    <configuration name="Min_No_Grounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB8.Min_No_Grounds" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trees_Algo.BTS.*" />
+          <option name="PATTERN" value="CP.LAB8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subquence_of_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Algo.Subquence_of_string" />
+    <configuration name="Next_Great" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Next_Great" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_Algo.*" />
+          <option name="PATTERN" value="Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trees_Algo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees_Algo.Main" />
+    <configuration name="fib_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.fib_n" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Trees_Algo.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.All_Possible_BST_1_N" />
-        <item itemvalue="Application.Trees_Algo.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ALL_SUBSET" />
-        <item itemvalue="Application.Subquence_of_string" />
+        <item itemvalue="Application.Grid_Traveler" />
+        <item itemvalue="Application.Next_Great" />
+        <item itemvalue="Application.fib_n" />
+        <item itemvalue="Application.Max_Sub_array" />
+        <item itemvalue="Application.Min_No_Grounds" />
       </list>
     </recent_temporary>
   </component>
