@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Next_Great.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/Max_Sub_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/first_neg_in_all_w.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/Grid_Traveler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DP/fib_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB9/Max_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB9/Maximum_Element_of_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModuloArithmetics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CP/LAB8/Min_No_Grounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CP/LAB8/Min_No_Grounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/Grid_Traveler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Grid_Traveler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/knapsack_Algo/Knapsack_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/knapsack_Algo/Knapsack_.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Grid_Traveler">
+  <component name="RunManager" selected="Application.ModuloArithmetics">
     <configuration name="Grid_Traveler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.Grid_Traveler" />
       <module name="Placement" />
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Sub_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.SW.Max_Sub_array" />
+    <configuration name="Max_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB9.Max_Stack" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Problems.SW.*" />
+          <option name="PATTERN" value="CP.LAB9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,15 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_No_Grounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB8.Min_No_Grounds" />
+    <configuration name="Maximum_Element_of_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB9.Maximum_Element_of_Binary_Tree" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB8.*" />
+          <option name="PATTERN" value="CP.LAB9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModuloArithmetics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModuloArithmetics" />
+      <module name="Placement" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fib_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.fib_n" />
-      <module name="Placement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ModuloArithmetics" />
+        <item itemvalue="Application.Maximum_Element_of_Binary_Tree" />
+        <item itemvalue="Application.Max_Stack" />
         <item itemvalue="Application.Grid_Traveler" />
         <item itemvalue="Application.Next_Great" />
-        <item itemvalue="Application.fib_n" />
-        <item itemvalue="Application.Max_Sub_array" />
-        <item itemvalue="Application.Min_No_Grounds" />
       </list>
     </recent_temporary>
   </component>
