@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB9/Max_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB9/Maximum_Element_of_Binary_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModuloArithmetics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Longest_increasing_subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Min_Room_needed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Reach_End.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/max_sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/reverse_K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB10/BST_MAX_HEAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB11/A_B_Win.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB11/Min_Room_needed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Records.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DP/Grid_Traveler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Grid_Traveler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/knapsack_Algo/Knapsack_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/knapsack_Algo/Knapsack_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModuloArithmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModuloArithmetics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +55,13 @@
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ModuloArithmetics">
-    <configuration name="Grid_Traveler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Grid_Traveler" />
+  <component name="RunManager" selected="Application.Graph">
+    <configuration name="A_B_Win" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB11.A_B_Win" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="CP.LAB11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB9.Max_Stack" />
+    <configuration name="CP.LAB11.Min_Room_needed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CP.LAB11.Min_Room_needed" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB9.*" />
+          <option name="PATTERN" value="CP.LAB11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Element_of_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB9.Maximum_Element_of_Binary_Tree" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Graph" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB9.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,15 +95,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModuloArithmetics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ModuloArithmetics" />
+    <configuration name="Longest_increasing_subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Longest_increasing_subsequence" />
       <module name="Placement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Next_Great" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.Next_Great" />
+    <configuration name="Min_Room_needed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Min_Room_needed" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ModuloArithmetics" />
-        <item itemvalue="Application.Maximum_Element_of_Binary_Tree" />
-        <item itemvalue="Application.Max_Stack" />
-        <item itemvalue="Application.Grid_Traveler" />
-        <item itemvalue="Application.Next_Great" />
+        <item itemvalue="Application.Graph" />
+        <item itemvalue="Application.A_B_Win" />
+        <item itemvalue="Application.CP.LAB11.Min_Room_needed" />
+        <item itemvalue="Application.Min_Room_needed" />
+        <item itemvalue="Application.Longest_increasing_subsequence" />
       </list>
     </recent_temporary>
   </component>
