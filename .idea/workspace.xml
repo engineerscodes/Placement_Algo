@@ -2,20 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfe7f68-dd26-47c0-b707-31bb00dada5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Longest_increasing_subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Min_Room_needed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Reach_End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/max_sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Problems/reverse_K.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB10/BST_MAX_HEAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB11/A_B_Win.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CP/LAB11/Min_Room_needed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic/Records.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/In_Rage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/NextGreaterPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/Occurrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/Sum_of_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/Two_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture/rm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Evaluation_Postfix_Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/LIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/PostFix_To_Infix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/Quick_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/SW/merge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/Tiffins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/bitonic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Problems/find_chesse_in_maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB12/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB12/Perumation_bt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB12/Run_Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP/LAB12/Tree_N_Ary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXAM/Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXAM/H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXAM/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXAM/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXAM/check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EXAM/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Connected_G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Dijiktra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/bfd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/undirected_Dijiktra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/Heap_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting_algo/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Algo/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_Algo/LCA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Udaan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knapsack_Algo/Knap_Sack_Unbounded.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModuloArithmetics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModuloArithmetics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Algo/All_permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Algo/All_permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String_Algo/Subquence_of_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_Algo/Subquence_of_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +77,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/NAVEEN/IdeaProjects/Placement",
+    "settings.editor.selected.configurable": "terminal"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\NAVEEN\IdeaProjects\Placement\" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph">
-    <configuration name="A_B_Win" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB11.A_B_Win" />
+  <component name="RunManager" selected="Application.Cake">
+    <configuration name="Cake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Cake" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CP.LAB11.*" />
+          <option name="PATTERN" value="Array_Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,21 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CP.LAB11.Min_Room_needed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CP.LAB11.Min_Room_needed" />
-      <module name="Placement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CP.LAB11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.Graph" />
+    <configuration name="Connected_G" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Connected_G" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_increasing_subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.Longest_increasing_subsequence" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Problems.Main" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
@@ -108,26 +130,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_Room_needed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Problems.Min_Room_needed" />
+    <configuration name="Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Max" />
       <module name="Placement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Problems.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code" />
+      <module name="Placement" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.A_B_Win" />
-        <item itemvalue="Application.CP.LAB11.Min_Room_needed" />
-        <item itemvalue="Application.Min_Room_needed" />
-        <item itemvalue="Application.Longest_increasing_subsequence" />
+        <item itemvalue="Application.Cake" />
+        <item itemvalue="Application.code" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Max" />
+        <item itemvalue="Application.Connected_G" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +388,9 @@
     </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Reverse_in_group_java$Perumation_bt.ic" NAME="Perumation_bt Coverage Results" MODIFIED="1660389463897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CP.LAB12.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Reverse_in_group_java$Vowels_on_Strike.ic" NAME="Vowels_on_Strike Coverage Results" MODIFIED="1657773682691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CP.LAB5.*</FILTER>
     </SUITE>

@@ -27,7 +27,6 @@ public class Subquence_of_string {
         if(str.length()==0){
             arr.add(ans);
         }else{
-
             StrPrint(str.substring(1),ans,arr); // when first character is Not Included
             StrPrint(str.substring(1),ans+str.charAt(0),arr); // when first character is Included
         }

@@ -24,7 +24,6 @@ public class All_permutation {
 			char  ch=str.charAt(i);  //fixed
 			String left=str.substring(0, i);
 			String right=str.substring(i+1);
-			
 			String notfixed=left+right;  //ac
 			
 			Permute(notfixed,ans+ch);

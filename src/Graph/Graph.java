@@ -80,7 +80,9 @@ public class Graph {
 
         System.out.println("Not possible u kid "+-1);
     }
-    public static void insert(int src,int des,int cost){
+    public static void insert(int
+
+                                      src,int des,int cost){
         arr.get(src).add(new Cost(des,cost));
     }
 
